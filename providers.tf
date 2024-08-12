@@ -8,5 +8,5 @@ terraform {
 }
 
 provider "aws" {
-  profile = "dev"
+  profile = "prod"
 }
