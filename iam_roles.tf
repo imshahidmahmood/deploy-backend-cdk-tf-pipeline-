@@ -49,9 +49,11 @@ resource "aws_iam_role_policy" "codepipeline_policy" {
           "codestar-connections:ListConnections"
         ]
         Effect = "Allow"
-        Resource = [
-          var.existing_connection_arn
-        ]
+        Resource = "*"
+
+        # Resource = [
+        #   var.existing_connection_arn
+        # ]
       },
       {
         Action = [
