@@ -4,7 +4,7 @@ This project provisions an AWS CodePipeline using Terraform to automate the depl
 
 ## Architecture Diagram
 
-![AWS Architecture Diagram](https://github.com/imshahidmahmood/s3-with-cloudfront/blob/main/s3-with-cloudfront-dist.drawio.png?raw=true)
+![AWS Architecture Diagram](https://github.com/imshahidmahmood/deploy-backend-cdk-tf-pipeline-/blob/main/AWS%20CodePipeline%20Structure.drawio.png)
 
 ## Project Structure
     ├── .terraform
