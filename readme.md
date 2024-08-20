@@ -30,7 +30,7 @@ This project provisions an AWS CodePipeline using Terraform to automate the depl
 - **`outputs.tf`**: Outputs for the Terraform stack.
 - **`providers.tf`**: Provider configurations (e.g., AWS).
 - **`s3.tf`**: S3 bucket configuration for storing the artifacts.
-- **`variables.tf`**: Input variables for the Terraform modules.
+- **`variables.tf`**: Input variables for the Terraform configuration.
 - **`terraform.tfvars`**: Variable values for the Terraform configuration.
 
 ## Pipeline Overview
