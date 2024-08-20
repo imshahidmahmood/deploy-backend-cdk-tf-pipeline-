@@ -3,7 +3,6 @@
 This project provisions an AWS CodePipeline using Terraform to automate the deployment of an AWS CDK application. The pipeline consists of two stages: Source and Build.
 
 ## Project Structure
-    ├── .terraform
     ├── .gitignore
     ├── terraform.lock.hcl
     ├── codebuild.tf
