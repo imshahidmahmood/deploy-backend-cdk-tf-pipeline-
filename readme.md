@@ -4,7 +4,7 @@ This project provisions an AWS CodePipeline using Terraform to automate the depl
 
 ## Project Structure
 
-── .gitignore
+── .gitignore \n
 ── terraform.lock.hcl
 ── codebuild.tf
 ├── codepipeline.tf
