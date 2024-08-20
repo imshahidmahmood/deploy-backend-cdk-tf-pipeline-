@@ -19,7 +19,7 @@ This project provisions an AWS CodePipeline using Terraform to automate the depl
 └── variables.tf
 
 
-### Files and Directories
+### <h1 style="color: red;">Files and Directories</h1>
 
 - **codebuild.tf**: Configuration for AWS CodeBuild, which installs CDK and project dependencies using npm, and then deploys the CDK application.
 - **codepipeline.tf**: Configuration for AWS CodePipeline, which manages the CI/CD pipeline.
