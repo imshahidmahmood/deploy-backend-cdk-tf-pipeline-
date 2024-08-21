@@ -78,4 +78,4 @@ To deploy this pipeline, ensure you have the following prerequisites:
 
 ## Contributing
 
-Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
+Feel free to open issues or submit pull requests if you find any mistake or have suggestions for improvements.
